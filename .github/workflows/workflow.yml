@@ -1,4 +1,4 @@
-name: Build code and deploy Azure
+name: Build code and deploy to Azure
 on: [push]
 jobs:
   build:
