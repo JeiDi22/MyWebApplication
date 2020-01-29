@@ -1,5 +1,6 @@
 name: Build code and deploy to Azure
 on: [push]
+
 jobs:
   build:
      name: Build Code
